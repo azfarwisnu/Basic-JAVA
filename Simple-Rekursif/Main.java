@@ -1,4 +1,3 @@
-package com.fungsirekursif;
 
 import java.util.Scanner;
 
