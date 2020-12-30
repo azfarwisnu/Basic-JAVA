@@ -1,4 +1,3 @@
-package com.fibonaccilatihan;
 
 import java.util.Scanner;
 
